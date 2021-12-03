@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-18T19:58:15 IST" name="Default suite" finished-at="2021-11-18T19:58:41 IST" duration-ms="26080">
+    <groups>
+    </groups>
+    <test started-at="2021-11-18T19:58:15 IST" name="Default test" finished-at="2021-11-18T19:58:41 IST" duration-ms="26080">
+      <class name="SeleniumSessions.GetScreenshotWhiletestcasefaild">
+        <test-method signature="captureScreenMethod()[pri:0, instance:SeleniumSessions.GetScreenshotWhiletestcasefaild@57af006c]" started-at="2021-11-18T19:58:15 IST" name="captureScreenMethod" finished-at="2021-11-18T19:58:41 IST" duration-ms="26041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenMethod -->
+        <test-method is-config="true" signature="screenShot(org.testng.ITestResult)[pri:0, instance:SeleniumSessions.GetScreenshotWhiletestcasefaild@57af006c]" started-at="2021-11-18T19:58:41 IST" name="screenShot" finished-at="2021-11-18T19:58:41 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=captureScreenMethod status=SUCCESS method=GetScreenshotWhiletestcasefaild.captureScreenMethod()[pri:0, instance:SeleniumSessions.GetScreenshotWhiletestcasefaild@57af006c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+      </class> <!-- SeleniumSessions.GetScreenshotWhiletestcasefaild -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
