@@ -38,5 +38,8 @@ public class ExplicitWait {
 		
 		searchButton.click();
 	}
+	public void test() {
+		
+	}
 
 }
